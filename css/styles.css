@@ -1,11 +1,11 @@
 * {
     box-sizing: border-box;
-    /* border: 2px solid red; */
     margin: 0;
 }
 
 svg {
-    background-image: linear-gradient(#077B8A, #001D24);
+    background-image: linear-gradient(#03D3FD, #001D24);
+    padding-top: 230px;
 }
 
 h1 {
@@ -37,11 +37,6 @@ footer {
     text-align: center;
     padding: 3%;
     font-size: smaller;
-}
-
-.titlespace {
-    background-image: linear-gradient(#03D3FD, #077B8A);
-    height: 230px;
 }
 
 .sec2 {
